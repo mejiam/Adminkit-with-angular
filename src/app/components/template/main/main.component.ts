@@ -1,18 +1,11 @@
 import { Component } from '@angular/core';
+import { RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-main',
   standalone: true,
-  imports: [],
+  imports: [RouterModule],
   templateUrl: './main.component.html',
-  styleUrl: './main.component.css'
+  styleUrl: './main.component.css',
 })
-export class MainComponent {
-  pageTitle1="Tablero";
-  pageTile2 = "Análisis";
-  misiones = 208;
-  costos=4321.18;
-  visitas=14310;
-  ordenes=326;
-
-}
+export class MainComponent {}
