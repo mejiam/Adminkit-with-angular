@@ -1,6 +1,8 @@
-# Adminkit with Angular
+# Adminkit template with Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
+
+This project has been generated using Adminkit under a free license. The only modification made is the adaptation to Angular 17. Therefore, all components and features of the project remain identical to the originals. You can find more information about Adminkit at adminkit.io (https://adminkit.io/).
 
 ## Development server
 
