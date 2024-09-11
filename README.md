@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project has been generated using Adminkit under a free license. The only modification made is the adaptation to Angular 17. Therefore, all components and features of the project remain identical to the originals. You can find more information about Adminkit at adminkit.io (https://adminkit.io/).
 
+Before running the project, make sure to run npm install to install all the necessary Angular dependencies.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
